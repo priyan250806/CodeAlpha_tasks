@@ -143,7 +143,7 @@ Ctrl + C
 ```
 ### 🚨 Suspicious Credential Detection (Red Alert)
 
-![Credential Detection](final_img.png)
+![Credential Detection](https://github.com/priyan250806/CodeAlpha_tasks/blob/main/CodeAlpha_Network_Sniffer/screenshots/final_img.png)
 
 > Real capture showing the sniffer intercepting a POST request over **HTTP (port 80)** to `httpbin.org`.  
 > The tool successfully extracted:
