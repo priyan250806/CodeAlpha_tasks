@@ -1,0 +1,19 @@
+# Generated output files
+capture_log.csv
+traffic_analysis.pcap
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+sniffer-env/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
