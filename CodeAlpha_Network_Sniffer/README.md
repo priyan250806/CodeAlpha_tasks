@@ -16,7 +16,7 @@
 
 
 
-![Demo Output](demo2_output.png)
+![Demo Output](https://github.com/priyan250806/CodeAlpha_tasks/blob/main/CodeAlpha_Network_Sniffer/screenshots/demo2_output.png)
 
 ---
 
