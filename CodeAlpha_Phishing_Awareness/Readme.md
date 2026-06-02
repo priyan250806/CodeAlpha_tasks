@@ -13,9 +13,10 @@
 </p>
 ---
 
-## 📸 modules Preview
+## 📸 Modules Preview
 
-![modules](screenshots/dashboard1.png)
+![modules](screenshots/phishing_email.png)
+![modules](screenshots/fake_website.png)
 
 ---
 
