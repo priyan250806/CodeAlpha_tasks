@@ -68,7 +68,6 @@ CodeAlpha_NIDS/
 └── screenshots/
     ├── dashboard.png        # Full dashboard screenshot
     ├── terminal_alerts.png  # Suricata live alert output
-    └── rules.png            # Custom rules file screenshot
 ```
 
 ---
