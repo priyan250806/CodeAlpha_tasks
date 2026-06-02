@@ -18,6 +18,8 @@
 ## 📸 Dashboard Preview
 
 ![Dashboard](https://github.com/priyan250806/CodeAlpha_tasks/blob/main/CodeAlpha_NIDS/screenshots/dashboard1.png?raw=true)
+[](https://github.com/priyan250806/CodeAlpha_tasks/blob/main/CodeAlpha_NIDS/screenshots/dashboard2.png?raw=true)
+
 
 ---
 
