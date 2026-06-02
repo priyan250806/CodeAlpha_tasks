@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-06-02 08:42:27",
+  "stats": {
+    "total_alerts": 1,
+    "severity": {
+      "critical": 1
+    },
+    "categories": {
+      "Potential Corporate Privacy Violation": 1
+    },
+    "top_src_ips": [
+      [
+        "10.183.196.178",
+        1
+      ]
+    ],
+    "protocols": {
+      "UDP": 1
+    },
+    "actions": {
+      "allowed": 1
+    },
+    "hourly": {
+      "08:00": 1
+    },
+    "top_signatures": [
+      [
+        "ET INFO Possible Kali Linux hostname in DHCP Request Packet",
+        1
+      ]
+    ],
+    "recent_alerts": [
+      {
+        "timestamp": "2026-06-02T08:37:59.233498+0530",
+        "src_ip": "10.183.196.178",
+        "src_port": 68,
+        "dest_ip": "10.183.196.252",
+        "dest_port": 67,
+        "proto": "UDP",
+        "signature": "ET INFO Possible Kali Linux hostname in DHCP Request Packet",
+        "category": "Potential Corporate Privacy Violation",
+        "severity": "critical",
+        "sid": 2022973,
+        "action": "allowed"
+      }
+    ]
+  }
+}
