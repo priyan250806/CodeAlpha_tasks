@@ -15,6 +15,7 @@
 
 ## 📸 Modules Preview
 
+![modules](screenshots/name_entry.png)
 ![modules](screenshots/phishing_email.png)
 ![modules](screenshots/fake_website.png)
 
