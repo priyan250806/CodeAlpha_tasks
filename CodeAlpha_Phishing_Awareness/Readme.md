@@ -11,6 +11,11 @@
 <p align="center">
   A fully interactive, browser-based Phishing Awareness Training module built with HTML, CSS, and JavaScript. Features 6 educational modules, real-world phishing simulations, social engineering tactics, best practices — and ends with a personalized quiz and certificate.
 </p>
+---
+
+## 📸 modules Preview
+
+![modules](screenshots/dashboard1.png)
 
 ---
 
